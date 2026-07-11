@@ -9,6 +9,7 @@ Simple command-line tool to add, view, and summarize daily expenses.
 
 **File**: `expense_tracker/expense_tracker.py`
 
+
 ### 2. WhatsApp Message Sender
 Script to send instant or scheduled WhatsApp messages.
 
