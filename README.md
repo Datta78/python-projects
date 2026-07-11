@@ -5,18 +5,35 @@ Collection of small Python scripts and projects for learning, practice, and job 
 ## 📁 Projects
 
 ### 1. Expense Tracker (CLI)
-Simple command-line tool to add, view, and summarize daily expenses.
+Simple command-line tool to manage daily expenses.
+
+**Features:**
+- Add new expenses with amount, category, and description
+- View all expenses with date and summary
+- Calculate total spending
+- Data saved in JSON file
 
 **File**: `expense_tracker/expense_tracker.py`
 
-
 ### 2. WhatsApp Message Sender
 Script to send instant or scheduled WhatsApp messages.
+
+**Features:**
+- Send message instantly
+- Schedule message for later time
+- Easy to use command line interface
+- Uses pywhatkit library
 
 **File**: `whatsapp_sender/whatsapp_sender.py`
 
 ### 3. To-Do List
 Simple task manager with add, view, and mark done features.
+
+**Features:**
+- Add new tasks
+- View all tasks with status and date
+- Mark tasks as done
+- Data saved in JSON file
 
 **File**: `todo_list/todo_list.py`
 
